@@ -1,0 +1,104 @@
+<resources>
+    <string name="app_name">E-Blood Bank</string>
+
+    <string-array name="gender">
+        <item>Male</item>
+        <item>Female</item>
+    </string-array>
+
+    <string-array name="blood">
+        <item>A+</item>
+        <item>A-</item>
+        <item>B+</item>
+        <item>B-</item>
+        <item>AB+</item>
+        <item>AB-</item>
+        <item>O+</item>
+        <item>O-</item>
+    </string-array>
+
+    <string-array name="provinces">
+        <item>Western Province</item>
+        <item>Central Province</item>
+        <item>Southern Province</item>
+        <item>Northern Province</item>
+        <item>North Western Province</item>
+        <item>Eastern Province</item>
+        <item>North Central Province</item>
+        <item>Uva Province</item>
+        <item>Sabaragamuwa Province</item>
+    </string-array>
+
+<!--    <string-array name="districts">-->
+<!--        <item>Colombo</item>-->
+<!--        <item>Gampaha</item>-->
+<!--        <item>Kalutara</item>-->
+<!--        <item>Kandy</item>-->
+<!--        <item>Matale</item>-->
+<!--        <item>Nuwara Eliya</item>-->
+<!--        <item>Galle</item>-->
+<!--        <item>Matara</item>-->
+<!--        <item>Hambantota</item>-->
+<!--        <item>Jaffna</item>-->
+<!--        <item>Kilinochchi</item>-->
+<!--        <item>Mannar</item>-->
+<!--        <item>Vavuniya</item>-->
+<!--        <item>Mullaitivu</item>-->
+<!--        <item>Batticaloa</item>-->
+<!--        <item>Ampara</item>-->
+<!--        <item>Trincomalee</item>-->
+<!--        <item>Kurunegala</item>-->
+<!--        <item>Puttalam</item>-->
+<!--        <item>Anuradhapura</item>-->
+<!--        <item>Polonnaruwa</item>-->
+<!--        <item>Badulla</item>-->
+<!--        <item>Moneragala</item>-->
+<!--        <item>Ratnapura</item>-->
+<!--        <item>Kegalle</item>-->
+<!--    </string-array>-->
+
+    <string-array name="western">
+        <item>Colombo</item>
+        <item>Gampaha</item>
+        <item>Kalutara</item></string-array>
+
+    <string-array name="central">
+        <item>Kandy</item>
+        <item>Matale</item>
+        <item>Nuwara Eliya</item></string-array>
+
+    <string-array name="southern">
+        <item>Galle</item>
+        <item>Matara</item>
+        <item>Hambantota</item></string-array>
+
+    <string-array name="nothern">
+        <item>Jaffna</item>
+        <item>Kilinochchi</item>
+        <item>Mannar</item>
+        <item>Vavuniya</item>
+        <item>Mullaitivu</item></string-array>
+
+    <string-array name="eastern">
+        <item>Batticaloa</item>
+        <item>Ampara</item>
+        <item>Trincomalee</item></string-array>
+
+    <string-array name="northwestern">
+        <item>Kurunegala</item>
+        <item>Puttalam</item></string-array>
+
+    <string-array name="northcentral">
+        <item>Anuradhapura</item>
+        <item>Polonnaruwa</item></string-array>
+
+    <string-array name="uva">
+        <item>Badulla</item>
+        <item>Moneragala</item></string-array>
+
+    <string-array name="sabaragamuwa">
+        <item>Ratnapura</item>
+        <item>Kegalle</item>
+    </string-array>
+
+</resources>
