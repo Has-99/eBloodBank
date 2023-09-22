@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/UNI/LEVEL 3/PH3037/E-blood Bank - Copy/app/src/main/res/layout/activity_blood_bank.xml" value="0.16203505771697307" />
+        <entry key="..\:/UNI/LEVEL 3/PH3037/E-blood Bank - Copy/app/src/main/res/layout/activity_blood_bank_filter.xml" value="0.16203505771697307" />
+        <entry key="..\:/UNI/LEVEL 3/PH3037/E-blood Bank - Copy/app/src/main/res/layout/activity_donor.xml" value="0.2" />
+        <entry key="..\:/UNI/LEVEL 3/PH3037/E-blood Bank - Copy/app/src/main/res/layout/activity_main.xml" value="0.2" />
+        <entry key="..\:/UNI/LEVEL 3/PH3037/E-blood Bank - Copy/app/src/main/res/layout/activity_op.xml" value="0.16203505771697307" />
+        <entry key="..\:/UNI/LEVEL 3/PH3037/E-blood Bank - Copy/app/src/main/res/layout/activity_recipient.xml" value="0.16203505771697307" />
+        <entry key="..\:/UNI/LEVEL 3/PH3037/E-blood Bank - Copy/app/src/main/res/layout/activity_sign_in.xml" value="0.16203505771697307" />
+        <entry key="..\:/UNI/LEVEL 3/PH3037/E-blood Bank - Copy/app/src/main/res/layout/activity_sign_up.xml" value="0.16203505771697307" />
+        <entry key="..\:/UNI/LEVEL 3/PH3037/E-blood Bank - Copy/app/src/main/res/layout/item_view.xml" value="0.25" />
+        <entry key="..\:/UNI/LEVEL 3/PH3037/E-blood Bank/app/src/main/res/layout/activity_ab_n.xml" value="0.16203505771697307" />
+        <entry key="..\:/UNI/LEVEL 3/PH3037/E-blood Bank/app/src/main/res/layout/activity_ab_p.xml" value="0.16203505771697307" />
+        <entry key="..\:/UNI/LEVEL 3/PH3037/E-blood Bank/app/src/main/res/layout/activity_an.xml" value="0.16203505771697307" />
+        <entry key="..\:/UNI/LEVEL 3/PH3037/E-blood Bank/app/src/main/res/layout/activity_ap.xml" value="0.16203505771697307" />
+        <entry key="..\:/UNI/LEVEL 3/PH3037/E-blood Bank/app/src/main/res/layout/activity_blood_bank.xml" value="0.1" />
+        <entry key="..\:/UNI/LEVEL 3/PH3037/E-blood Bank/app/src/main/res/layout/activity_bn.xml" value="0.16203505771697307" />
+        <entry key="..\:/UNI/LEVEL 3/PH3037/E-blood Bank/app/src/main/res/layout/activity_bp.xml" value="0.16203505771697307" />
+        <entry key="..\:/UNI/LEVEL 3/PH3037/E-blood Bank/app/src/main/res/layout/activity_donor.xml" value="0.1" />
+        <entry key="..\:/UNI/LEVEL 3/PH3037/E-blood Bank/app/src/main/res/layout/activity_main.xml" value="0.16203505771697307" />
+        <entry key="..\:/UNI/LEVEL 3/PH3037/E-blood Bank/app/src/main/res/layout/activity_on.xml" value="0.16203505771697307" />
+        <entry key="..\:/UNI/LEVEL 3/PH3037/E-blood Bank/app/src/main/res/layout/activity_op.xml" value="0.16203505771697307" />
+        <entry key="..\:/UNI/LEVEL 3/PH3037/E-blood Bank/app/src/main/res/layout/activity_recipient.xml" value="0.2" />
+        <entry key="..\:/UNI/LEVEL 3/PH3037/E-blood Bank/app/src/main/res/layout/activity_sign_in.xml" value="0.14" />
+        <entry key="..\:/UNI/LEVEL 3/PH3037/E-blood Bank/app/src/main/res/layout/activity_sign_up.xml" value="0.18" />
+        <entry key="..\:/UNI/LEVEL 3/PH3037/E-blood Bank/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/activity_hospital_filter.xml" value="0.3723958333333333" />
+        <entry key="app/src/main/res/layout/activity_main.xml" value="0.19322916666666667" />
+        <entry key="app/src/main/res/layout/activity_recipient.xml" value="0.3723958333333333" />
+        <entry key="app/src/main/res/layout/activity_sign_in.xml" value="0.19322916666666667" />
+        <entry key="app/src/main/res/layout/activity_sign_up.xml" value="0.19322916666666667" />
+        <entry key="app/src/main/res/layout/item_view.xml" value="0.3723958333333333" />
+        <entry key="app/src/main/res/layout/item_view_hospital.xml" value="0.3723958333333333" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
